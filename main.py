@@ -3,7 +3,7 @@ class Square:
         print("Enter side:")
         self.l = float(input())
         area = self.l * self.l
-        print("Area of square is=%f" % (area))
+        print("Arfdddea of square is=%f" % (area))
     def CalculatePerimeter(self):
         perimeter = 4 * (self.l)
         print("Perimeter of square is=%f" % (perimeter))
